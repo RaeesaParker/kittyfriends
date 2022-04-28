@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kittyfriends/static/css/main.eb1983f5.css",
+    "main.js": "/kittyfriends/static/js/main.dd99b3fb.js",
+    "index.html": "/kittyfriends/index.html",
+    "main.eb1983f5.css.map": "/kittyfriends/static/css/main.eb1983f5.css.map",
+    "main.dd99b3fb.js.map": "/kittyfriends/static/js/main.dd99b3fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb1983f5.css",
+    "static/js/main.dd99b3fb.js"
+  ]
+}
